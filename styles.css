@@ -40,8 +40,11 @@ body {
 	text-justify:auto;
 	background-position:center;
 	background-color:#253249;
+	font-size:22px;
+	
+.welcome {
+	background-image:url(assets/desk.jpg);
 	background-blend-mode:soft-light;
 	mix-blend-mode:luminosity;
 	background-size:cover;
-	font-size:22px;
-	
+}
